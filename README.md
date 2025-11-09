@@ -4,7 +4,7 @@ Hello Tomohiro i dont know if you will see this, but i wanted to contact you (an
 
 My name is Enrique, and I am a final-year Computer Science student at Universidad Franciso de Victoria (UFV, from Spaim). I am contacting you seeking aid for my Final Year Project (FYP).
 I am also a track and field athlete, which motivated me to focus my project on developing an AI model to study, analyze, and provide feedback for improving running technique in sprint athletes using Computer Vision.
-
+ 
 I have seen your work on sports pose estimation, particularly the AthleticsPose and unsupervised-fine-tuning-pose3d-for-sports repositories.
 
 I am currently using the provided 2D and 3D pose data (.npy files, bounding boxes, and 2D markers) from the AthleticsPose Dataset as my Ground Truth (GT). However, to implement the Computer Vision detection component and perform the crucial fine-tuning of my base pose model, I would need the original visual input data (it doesnt matter in video or images).
